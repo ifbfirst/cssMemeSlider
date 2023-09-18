@@ -38,7 +38,7 @@ body {
     height: 0.7em;
     width: 0.7em;
     background-color: rgb(114, 160, 234);
-    margin: 5px;
+    margin: 0.2em;;
     transition: all .4s ease;
     border: 2% solid #fff;
 }
